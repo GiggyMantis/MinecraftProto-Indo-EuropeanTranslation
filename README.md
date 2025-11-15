@@ -15,7 +15,7 @@ For consistency, the following color words are to be used:
 |------------|---------------------------------------------|
 | White      | *ḱweyt-ó-s                                  |
 | Light Gray | *ḱyeh₁-wó-s                                 |
-| Dark Gray  | *(s)ḱeh₃i-ro-s                              |
+| Gray       | *(s)ḱeh₃i-ro-s                              |
 | Black      | *kr̥snós                                     |
 | Brown      | *bʰérH-u-s                                  |
 | Magenta    | *h₁rowdʰ-ó-s- + \*modʰro-                   |
