@@ -18,15 +18,15 @@ For consistency, the following color words are to be used:
 | Dark Gray  | *(s)ḱeh₃-                                   |
 | Black      | *kr̥snós (\*kers-)                           |
 | Brown      | *bʰerH-                                     |
-| Magenta    | *h₁rewdʰ- + *modʰro-                        |
-| Pink       | *bʰleh₁- + *h₁rewdʰ-                        |
+| Magenta    | *h₁rewdʰ- + \*modʰro-                       |
+| Pink       | *bʰleh₁- + \*h₁rewdʰ-                       |
 | Red        | *h₁rewdʰ-                                   |
-| Orange     | *h₁rewdʰ- + *ǵʰelh₃-                        |
-| Yellow     | *ǵʰelh₃-                                    |
+| Orange     | *h₁rewdʰ- + \*ǵʰelh₃-                       |
+| Yellow     | *bʰleh₁- + \*ǵʰelh₃-                        |
 | Lime       | *ǵʰelh₃-                                    |
 | Green      | *gʰreh₁-                                    |
-| Cyan       | *gʰreh₁- + *modʰro-                         |
-| Light Blue | *bʰleh₁- + *modʰro-                         |
+| Cyan       | *gʰreh₁- + \*modʰro-                        |
+| Light Blue | *bʰleh₁- + \*modʰro-                        |
 | Dark Blue  | *modʰro-                                    |
 | Purple     | *wih₁nés (genitive of \*wéyh₁ō, ← \*weh₁y-) |
 
