@@ -13,22 +13,22 @@
 For consistency, the following color words are to be used:
 | (English)  | (PIE)                                       |
 |------------|---------------------------------------------|
-| White      | *ḱweyt-                                     |
-| Light Gray | *ḱey-                                       |
-| Dark Gray  | *(s)ḱeh₃-                                   |
-| Black      | *kr̥snós (\*kers-)                           |
-| Brown      | *bʰerH-                                     |
-| Magenta    | *h₁rewdʰ- + \*modʰro-                       |
-| Pink       | *bʰleh₁- + \*h₁rewdʰ-                       |
-| Red        | *h₁rewdʰ-                                   |
-| Orange     | *h₁rewdʰ- + \*ǵʰelh₃-                       |
-| Yellow     | *bʰleh₁- + \*ǵʰelh₃-                        |
-| Lime       | *ǵʰelh₃-                                    |
-| Green      | *gʰreh₁-                                    |
-| Cyan       | *gʰreh₁- + \*modʰro-                        |
-| Light Blue | *bʰleh₁- + \*modʰro-                        |
-| Dark Blue  | *modʰro-                                    |
-| Purple     | *wih₁nés (genitive of \*wéyh₁ō, ← \*weh₁y-) |
+| White      | *ḱweyt-ó-s                                  |
+| Light Gray | *ḱyeh₁-wó-s                                 |
+| Dark Gray  | *(s)ḱeh₃i-ro-s                              |
+| Black      | *kr̥snós                                     |
+| Brown      | *bʰr̥H-éw-s                                  |
+| Magenta    | *h₁rowdʰ-ó-s- + \*modʰro-                   |
+| Pink       | *bʰḗlH-o-s + \*h₁rowdʰ-ó-s                  |
+| Red        | *h₁rowdʰ-ó-s                                |
+| Orange     | *h₁rowdʰ-ó-s + \*ǵʰelh₃-o-s                 |
+| Yellow     | *bʰḗlH-o-s + \*ǵʰelh₃-o-s                   |
+| Lime       | *ǵʰelh₃-o-s                                 |
+| Green      | *gʰroh₁-ni-s                                |
+| Cyan       | *gʰroh₁-ni-s + \*modʰros                    |
+| Light Blue | *bʰḗlH-o-s + \*modʰros                      |
+| Blue       | *modʰros                                    |
+| Purple     | *wih₁nés (genitive of \*wéyh₁ō)             |
 
 # Sources
 - [Wiktionary](https://en.wiktionary.org/)
